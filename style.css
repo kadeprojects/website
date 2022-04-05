@@ -52,7 +52,7 @@ html {
 
 .about-box {
   position: absolute;
-  top: 40%;
+  top: 50%;
   left: 4%;
   width: 715px;
   padding: 25px;
@@ -70,7 +70,7 @@ html {
 
 .content-box {
   position: absolute;
-  top: 120%;
+  top: 130%;
   left: 4%;
   width: 715px;
   padding: 25px;
