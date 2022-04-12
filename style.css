@@ -1,7 +1,7 @@
 html {
   min-height: 200%;
 
-  /* you must use a font pairing! */
+  /* you must use a font pairing! - mr winika */
 
   font-family: Arial, Helvetica, sans-serif;
   color: #fff;
@@ -31,7 +31,7 @@ html {
 .main-box {
   position: absolute;
   background-image: 
-    url("https://www.countryflags.com/wp-content/uploads/vatican-city-flag-png-large.png");
+    url("images/BannerFlag.png");
   background-position: center center;
   background-repeat: no-repeat;
   top: 4%;
